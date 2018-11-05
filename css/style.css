@@ -739,14 +739,17 @@ h3:before {
     left: 0;
     top: 23px;
 }
-footer{
+
+footer {
     background: url("../img/footer/bg.png");
     height: 716px;
 }
-.information-block{
+
+.information-block {
     margin-top: 10%;
 }
-.information-block p{
+
+.information-block p {
     color: #ffffff;
     font-family: 'Verdana';
     font-size: 14px;
@@ -755,7 +758,8 @@ footer{
     margin-top: 5%;
 
 }
-.information-block p:before{
+
+.information-block p:before {
     content: '';
     position: absolute;
     width: 50px;
@@ -767,10 +771,12 @@ footer{
     top: 47%;
 
 }
-.contact-block{
+
+.contact-block {
     margin-top: 8%;
 }
-.contact-block h1{
+
+.contact-block h1 {
     color: #fe504f;
     font-family: 'Verdana';
     font-size: 24px;
@@ -780,7 +786,8 @@ footer{
     /* Text style for "c, ontact" */
     letter-spacing: -0.96px;
 }
-.contact-block h1:before{
+
+.contact-block h1:before {
     content: '';
     position: absolute;
     width: 50px;
@@ -791,10 +798,12 @@ footer{
     left: 8.5%;
     top: 68%;
 }
-.text-icon{
+
+.text-icon {
 
 }
-.text-icon h3{
+
+.text-icon h3 {
     color: #ffffff;
     font-family: 'Verdana';
     font-size: 12px;
@@ -806,7 +815,7 @@ footer{
     margin-top: 5%;
 }
 
-.contact-block p{
+.contact-block p {
     color: #ffffff;
     font-family: 'Verdana';
     font-size: 14px;
